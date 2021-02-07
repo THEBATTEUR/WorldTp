@@ -4,7 +4,7 @@
 A simple plugin to create commands of tp between the server Worlds. A friend asked to me to do a short plugin which can do that. And I decided to make it public :smile:.
 
 ![](https://cdn.discordapp.com/emojis/757359922416451675.png?v=1)  
-Un plugin simple permettant de créer des commandes de tp entre les mondes d'un serveur. Une amie m'a demandé de faire un petit plugin qui pouvait faire ça. Et j'ai décidé de le rendre publique :smile:.
+Un plugin simple permettant de créer des commandes de tp entre les mondes d'un serveur. Un ami m'a demandé de faire un petit plugin qui pouvait faire ça. Et j'ai décidé de le rendre publique :smile:.
 
 ---------
 ## Configuration
