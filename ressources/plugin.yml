@@ -1,0 +1,5 @@
+name: WorldTp
+author: THE_BATTEUR
+version: 1.0
+api-version: 1.9.4
+main: fr.thebatteur.worldtp.WorldTp

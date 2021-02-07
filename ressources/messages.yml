@@ -1,0 +1,8 @@
+messages_fr:
+  successtp: §aVous avez été téléporté dans %s !
+  alreadyinworld: §cErreur ! Vous êtes déjà dans %s.
+  nopermission: §cErreur ! Vous n'avez pas la permission d'executer cette commande.
+messages_en:
+  successtp: §aYou've been warped into %s !
+  alreadyinworld: §cError ! You're already in %s.
+  nopermission: §cError ! You don't have the permission to use this commande.
