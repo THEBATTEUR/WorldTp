@@ -144,6 +144,6 @@ Here is the link to the SpigotMC page : https://worldtp.thebatteur.fr/
 And here is the link to this repertory : https://gworldtp.thebatteur.fr/
 
 ![](https://cdn.discordapp.com/emojis/757359922416451675.png?v=1)  
-Si vous voulez contribuer, faites une demande et je regarderai ça :smile:.
+Si vous voulez contribuer, faites une demande et je regarderai ça :smile:.  
 Voici le lien vers la page SpigotMC : https://worldtp.thebatteur.fr/  
 Et ici le lien vers ce repertoire : https://gworldtp.thebatteur.fr/
